@@ -2,9 +2,9 @@
   "name": "api-vercel",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "api/index.js",
   "scripts": {
-    "start": "index.js"
+    "start": "api/index.js"
   },
   "keywords": [],
   "author": "",
